@@ -19,6 +19,9 @@ v0.1.4
 
   [ypid]
 
+- Added ``apt_preferences__preset_list`` for advanced users. Currently, only
+  Debian GNU/Linux is supported. [ypid]
+
 
 v0.1.3
 ------
